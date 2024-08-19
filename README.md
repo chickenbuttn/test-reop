@@ -2,5 +2,8 @@
 
 A FAST-PACED COURSE FOR GETTING UP TO SPEED WITH GIT AND GITHUB
 
+<<<<<<< HEAD
 I am also working on this line!
+=======
 Just working on a new feature!
+>>>>>>> awesome
